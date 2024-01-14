@@ -1,0 +1,71 @@
+('F:\\Chara tech task\\CharaTasks\\task2\\build\\script\\script.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'F:\\Chara tech task\\CharaTasks\\task2\\build\\script\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'F:\\Chara tech '
+   'task\\CharaTasks\\task2\\build\\script\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'F:\\Chara tech '
+   'task\\CharaTasks\\task2\\build\\script\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'F:\\Chara tech '
+   'task\\CharaTasks\\task2\\build\\script\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'F:\\Chara tech '
+   'task\\CharaTasks\\task2\\build\\script\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'F:\\Chara tech '
+   'task\\CharaTasks\\task2\\build\\script\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqtgraph_multiprocess',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pyqtgraph_multiprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('script', 'F:\\Chara tech task\\CharaTasks\\task2\\script.py', 'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

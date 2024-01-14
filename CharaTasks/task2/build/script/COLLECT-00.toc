@@ -1,0 +1,3535 @@
+([('script.exe',
+   'F:\\Chara tech task\\CharaTasks\\task2\\build\\script\\script.exe',
+   'EXECUTABLE'),
+  ('python311.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtGui.pyd',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\PyQt5\\QtGui.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtTest.pyd',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\PyQt5\\QtTest.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtSvg.pyd',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\PyQt5\\QtSvg.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PyQt5\\sip.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\sip.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\writers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\tslib.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\testing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\sparse.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sas.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\sas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\reshape.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\properties.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\parsers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_parser.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\pandas_parser.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_datetime.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\pandas_datetime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\ops.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\missing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\lib.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\json.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\join.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\interval.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\internals.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\indexing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\index.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\hashing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\groupby.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\byteswap.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\byteswap.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\arrays.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\_libs\\algos.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtCore.pyd',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\PyQt5\\QtCore.pyd',
+   'EXTENSION'),
+  ('PyQt5\\QtWidgets.pyd',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\PyQt5\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\random\\_common.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp311-win_amd64.pyd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Gui.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Network.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Quick.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\python3.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Test.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Test.dll',
+   'BINARY'),
+  ('numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'BINARY'),
+  ('pandas.libs\\msvcp140-fa0758dedafbbe194d3ee96e3dc2b9a3.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas.libs\\msvcp140-fa0758dedafbbe194d3ee96e3dc2b9a3.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Qml.dll',
+   'BINARY'),
+  ('static\\cosine.png', 'F:\\Chara tech task\\static\\cosine.png', 'DATA'),
+  ('static\\csv-file.png', 'F:\\Chara tech task\\static\\csv-file.png', 'DATA'),
+  ('static\\sine.png', 'F:\\Chara tech task\\static\\sine.png', 'DATA'),
+  ('static\\triangular.png',
+   'F:\\Chara tech task\\static\\triangular.png',
+   'DATA'),
+  ('base_library.zip',
+   'F:\\Chara tech task\\CharaTasks\\task2\\build\\script\\base_library.zip',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qaxcontainer.py',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qaxcontainer.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtprintsupport.py',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtprintsupport.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtwebenginewidgets.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtwebkit.py',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtwebkit.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtcharts.py',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtcharts.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qtquickwidgets.py',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qtquickwidgets.py',
+   'DATA'),
+  ('PyQt5\\uic\\widget-plugins\\qscintilla.py',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\uic\\widget-plugins\\qscintilla.py',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L5.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L5.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\PAL-relaxed_bright.hex',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\PAL-relaxed_bright.hex',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTL2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTL2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D4.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D4.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C7s.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C7s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-I3.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-I3.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBL2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBL2.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\ctrl.png',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\icons\\ctrl.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L4.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L4.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C6s.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C6s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R3.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R3.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D10.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D10.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CC-BY license - applies to CET color map data.txt',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CC-BY '
+   'license - applies to CET color map data.txt',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CC0 legal code - applies to virids, magma, '
+   'plasma, inferno and cividis.txt',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CC0 legal '
+   'code - applies to virids, magma, plasma, inferno and cividis.txt',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\inferno.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\inferno.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D12.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D12.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D11.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D11.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L11.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L11.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L17.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L17.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L12.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L12.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\icons.svg',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\icons\\icons.svg',
+   'DATA'),
+  ('pyqtgraph\\icons\\default.png',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\icons\\default.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBD1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBD1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L13.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L13.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-R4.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-R4.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D9.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D9.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C6.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C6.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L10.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L10.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBC1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBC1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C4.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C4.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C5s.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C5s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C3s.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C3s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L18.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L18.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L3.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L3.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D6.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D6.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBL1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBL1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C3.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C3.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L8.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L8.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTL1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTL1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L7.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L7.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D3.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D3.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\invisibleEye.svg',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\icons\\invisibleEye.svg',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D8.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D8.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-I1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-I1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C1s.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C1s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C4s.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C4s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L6.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L6.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\lock.png',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\icons\\lock.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L15.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L15.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L16.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L16.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D7.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D7.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D13.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D13.csv',
+   'DATA'),
+  ('pyqtgraph\\icons\\auto.png',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\icons\\auto.png',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-D1A.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-D1A.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\PAL-relaxed.hex',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\PAL-relaxed.hex',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C2s.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C2s.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C5.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C5.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBC2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBC2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L14.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L14.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTC2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTC2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\plasma.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\plasma.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\magma.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\magma.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-I2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-I2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L9.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L9.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L19.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L19.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\cividis.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\cividis.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-L2.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-L2.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-C7.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-C7.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTC1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTC1.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\viridis.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\viridis.csv',
+   'DATA'),
+  ('pyqtgraph\\colors\\maps\\CET-CBTD1.csv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pyqtgraph\\colors\\maps\\CET-CBTD1.csv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'F:\\Chara tech task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_en.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'F:\\Chara tech '
+   'task\\chara_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA')],)
