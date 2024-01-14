@@ -1,8 +1,8 @@
 # PyQtGraph-Tasks
 
 # Directory Structure:
-CharaTasks > Task1 : Script.py file is there for task1 
-CharaTasks > Task2 : Script.py is there for task2
+1. CharaTasks > Task1 : Script.py file is there for task1 
+2. CharaTasks > Task2 : Script.py is there for task2
 
 # Running Script: 
 1. create virtula environment and activate it first.
